@@ -10,4 +10,8 @@ public class JiraTestApplication {
         SpringApplication.run(JiraTestApplication.class, args);
     }
 
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
