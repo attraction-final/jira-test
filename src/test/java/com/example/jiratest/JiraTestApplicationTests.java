@@ -8,7 +8,7 @@ class JiraTestApplicationTests {
 
     @Test
     void contextLoads() {
-
     }
 
 }
+
