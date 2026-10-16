@@ -11,20 +11,4 @@ public class JiraTestApplication {
     }
 
 }
-package com.example.jiratest;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-@SpringBootApplication
-public class JiraTestApplication {
-
-    public static void main(String[] args) {
-        SpringApplication.run(JiraTestApplication.class, args);
-    }
-
-    @Override
-    public String toString() {
-        return super.toString();
-    }
-}
