@@ -9,9 +9,9 @@ public class JiraTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(JiraTestApplication.class, args);
     }
-
     @Override
     public String toString() {
         return super.toString();
+
+} 
     }
-}
